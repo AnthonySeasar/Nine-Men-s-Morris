@@ -1,0 +1,11 @@
+Contribution log for Sprint one
+
+Xinke Wang：
+Team Information (Team Schedule,Technology Stack and Justification) -- Start：29/03/2023 21:00 pm  End：29/03/2023 23:00 pm
+User Stories (Some stories) -- Start：30/03/2023 16:00 pm End：30/03/2023 21:00 pm
+Basic architecture (Some explanations and Rationales) --  Start：31/03/2023 End：01/04/2023
+Basic UI -- Start：01/04/2023 End：02/04/2023
+
+Zijie Zhang：
+
+Boyang Ma：
